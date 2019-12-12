@@ -1,2 +1,2 @@
 # Snowboard_Sizing_Calculator
-Project I made using tkinter library to predict your snowboard size
+Fun end of the year project I made to that utilizes a GUI to guide user through process of finding appropriate snowboard size. 
