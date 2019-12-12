@@ -1,4 +1,4 @@
-# Snowboard_Sizing_Calculator
+# The Snowboard Sizing Calculator
 Fun end of the year project I made to that utilizes a tkinter GUI to guide users through the process of finding an appropriate snowboard to buy based on their features. The functionality is relatively simple, save and run the file on your laptop using iDle (or whichever python IDE you prefer) and click through the questions and answer accordingly. After submitting your information, The screen will display some information pertaining to what your preferences say about which board you should ride and what size to buy. 
 
 On the right hand side in the results window there are three buttons, the first two of which will take you to websites that have further sizing information for buying options based on your style choices. The third one will save your results as a .txt file in your current directory that you have the code saved in. 
